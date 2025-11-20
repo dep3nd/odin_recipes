@@ -1,11 +1,13 @@
 body {
-    background-color:brown;
+    background-color:rgb(236, 224, 208);
 }
 
-.li {
-    background-color: blue;
-}
-
-.h1 {
+h1 {
     background-color: brown;
+    text-align: center;
+}
+
+li {
+    background-color: blue;
+    display: flex;
 }
