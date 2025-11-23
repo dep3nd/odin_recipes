@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(236, 224, 208);
+    font-family:Arial, Helvetica, sans-serif
+}
+
+img {
+    margin-top: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1, h2, h3, h4 {
+    background-color: rgb(221, 209, 195);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: fit-content;
+    padding: 5px 12px;
+    margin: 0 auto;
+    margin-top: 1em;
+}
+
+.content {
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    
+}
+
+ol {
+    list-style-position: inside;
+}
+
+#homeButton {
+    background-color: #555555;
+    border: none;
+    color: antiquewhite;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    
+}

@@ -4,18 +4,17 @@
 
 body {
     background-color:rgb(236, 224, 208);
-    
 }
 
 .content {
     width: fit-content;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 3rem;
     background-color: rgb(227, 241, 255);
 }
 
 h1 {
-    background-color:deepskyblue;
+    color: rgb(161, 162, 163);
     padding: 1em ;
     
 }
@@ -25,13 +24,20 @@ ul {
     margin: 0;
     padding: 0;
     
+    
 }
 
 li {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color:rgb(255, 212, 156);
-    padding: 8px 0;
-    border-bottom: 1px solid #eee;
+    background-color:rgb(219, 208, 193);
+    padding: 15px 0;
+    border-bottom: 5px solid #d9e8f7;
+    font-size: 16px;
     
+}
+
+a {
+    text-decoration: none;
+    color: #555555;
 }
